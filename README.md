@@ -13,11 +13,11 @@ I'm a Flutter developer with 1 year of experience. My areas of interest include 
 
 ## 📫 How to reach me
 
-- GitHub: [ZainAli417](https://github.com/ZainAli417)
-- Email: [Gmail](mailto:Alimalik20102019@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zainali417)
-- Portfolio: [Portfolio](https://zainaliportfolio.000.pe)
-- Certifications: [Certification](https://aridpastpaper.nlogspot.com)
+- GitHub: (https://github.com/ZainAli417)
+- Email: (Alimalik20102019@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/zainali417)
+- Portfolio: (https://zainaliportfolio.000.pe)
+- Certifications: (https://aridpastpaper.nlogspot.com)
 
 ## 🚀 About Me
 
